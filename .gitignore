@@ -1,2 +1,4 @@
+compiler/target
+compiler/rustc-incremental
 vm/target
 vm/rustc-incremental
